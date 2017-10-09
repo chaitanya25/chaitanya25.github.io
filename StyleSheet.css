@@ -1,8 +1,13 @@
 .card {
-    box-shadow : 0 28px 144px 0 rgba(19,49,69,8.2);
-    max-width: 300px;
-    margin:auto;
-    text-align:center;
+    box-shadow : 1027px 15px 45px 15px rgba(19, 49, 69, 1);
+    max-width: 322px;
+    margin: auto;
+    text-align: center;
+    padding-left: 1006px;
+}
+
+body {
+    background-image:url(Resources/Background1.jpg);
 }
 
 .title {
@@ -27,6 +32,6 @@ a {
     color:gray;
 }
 
-    button:hover, a:hover {
+button:hover, a:hover {
         opacity:0.5;
     }
